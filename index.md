@@ -4,3 +4,9 @@ Le Lorem Ipsum est simplement du faux texte employé dans la composition et la m
 
 ## Here is an image in markdown
 ![Image of Dimitri](https://avatars.githubusercontent.com/u/62836495?v=4?s=400)
+
+## What about some code ? 
+
+```
+const name = 'dimitri';
+```
